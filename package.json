@@ -1,0 +1,26 @@
+{
+  "name": "baekjoon",
+  "version": "1.0.0",
+  "description": "baekjoon everyday",
+  "main": "index.js",
+  "scripts": {
+    "test": "testtest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thebluerat/baekjoon.git"
+  },
+  "keywords": [
+    "algorithm"
+  ],
+  "author": "bluemouse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thebluerat/baekjoon/issues"
+  },
+  "homepage": "https://github.com/thebluerat/baekjoon#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "type" : "module"
+}
